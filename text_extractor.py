@@ -243,6 +243,7 @@ if __name__ == '__main__':
             "greeting": "Hello JSON",
             "details": {
                 "path": "a.b.c",
+                # Corrected line: ensure no stray backslash before the comment
                 "value": "JSON data with a \\"quote\\"" # This Python string is 'JSON data with a "quote"'
             },
             "items": ["item1", "item2"]
