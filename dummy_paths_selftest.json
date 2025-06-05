@@ -1,0 +1,37 @@
+{
+  "temp_injector_test_output_files_test_scene_tscn_2_text": {
+    "file_path": "temp_injector_test_output_files/test_scene.tscn",
+    "line_number": 2,
+    "key": "text",
+    "type": "tscn",
+    "original_text_md5": "5931ade1d06d875f6815007901027a2a"
+  },
+  "temp_injector_test_output_files_game_logic_gd_2_Game_Started_": {
+    "file_path": "temp_injector_test_output_files/game_logic.gd",
+    "line_number": 2,
+    "key": "Game Started!",
+    "type": "gdscript",
+    "original_text_md5": "2aae51a769914dfdc6ccd33158cea5ab"
+  },
+  "temp_injector_test_output_files_data_json_NLN_title": {
+    "file_path": "temp_injector_test_output_files/data.json",
+    "line_number": null,
+    "key": "title",
+    "type": "json",
+    "original_text_md5": "dcd15496d8288f634b1a871ddf2518de"
+  },
+  "temp_injector_test_output_files_data_json_NLN_chapters[0]_name": {
+    "file_path": "temp_injector_test_output_files/data.json",
+    "line_number": null,
+    "key": "chapters[0].name",
+    "type": "json",
+    "original_text_md5": "109a9f10ea6d27a6b9373e0857f79f66"
+  },
+  "temp_injector_test_output_files_trans_csv_2_column_1": {
+    "file_path": "temp_injector_test_output_files/trans.csv",
+    "line_number": 2,
+    "key": "column_1",
+    "type": "csv",
+    "original_text_md5": "66751efa1d170957f4c091770d3dd32f"
+  }
+}

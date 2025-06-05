@@ -1,0 +1,23 @@
+{
+  "output_files_test_scene_tscn_3_text": {
+    "file_path": "test_scene.tscn",
+    "line_number": 3,
+    "key": "text",
+    "type": "tscn",
+    "original_text_md5": "5931ade1d06d875f6815007901027a2a"
+  },
+  "output_files_game_logic_gd_4_Game_Started_": {
+    "file_path": "game_logic.gd",
+    "line_number": 4,
+    "key": "Game Started!",
+    "type": "gdscript",
+    "original_text_md5": "2aae51a769914dfdc6ccd33158cea5ab"
+  },
+  "output_files_game_logic_gd_5_Another_GDScript_quote": {
+    "file_path": "game_logic.gd",
+    "line_number": 5,
+    "key": "Another \"GDScript\" quote",
+    "type": "gdscript",
+    "original_text_md5": "3ceef76f7ab9c85ca6639ceea2d6d107"
+  }
+}

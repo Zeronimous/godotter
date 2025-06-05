@@ -1,0 +1,5 @@
+ID	OriginalText	ModifiedText
+output_files_test_scene_tscn_3_text	Hello TSCN	Hola TSCN
+output_files_game_logic_gd_4_Game_Started_	Game Started!	Juego Iniciado!
+output_files_game_logic_gd_5_Another_GDScript_quote	"Another ""GDScript"" quote"	"Otra cita de ""GDScript"""
+non_existent_id	Blah	Blooh

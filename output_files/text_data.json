@@ -1,0 +1,18 @@
+{
+  "title": "Mi Juego JSON",
+  "description": "An adventure.",
+  "chapters": [
+    {
+      "name": "Chapter 1",
+      "text": "Intro text"
+    },
+    {
+      "name": "Chapter 2",
+      "text": "More text with a \"quote\""
+    }
+  ],
+  "keywords": [
+    "fantasy",
+    "adventure"
+  ]
+}

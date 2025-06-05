@@ -1,0 +1,30 @@
+ID	OriginalText	ModifiedText
+output_files_test_scene_tscn_3_text	Hello TSCN	Hola TSCN!
+output_files_test_scene_tscn_4_tooltip_text	A TSCN Tip
+output_files_test_scene_tscn_5_placeholder_text	Enter here
+output_files_test_resource_tres_3_text	Hello TRES
+output_files_test_resource_tres_4_title	TRES Title
+output_files_text_data_json_NLN_title	My JSON Game	Mi Juego JSON
+output_files_text_data_json_NLN_description	An adventure.
+output_files_text_data_json_NLN_chapters_0__name	Chapter 1
+output_files_text_data_json_NLN_chapters_0__text	Intro text
+output_files_text_data_json_NLN_chapters_1__name	Chapter 2
+output_files_text_data_json_NLN_chapters_1__text	"More text with a ""quote"""
+output_files_text_data_json_NLN_keywords_0_	fantasy
+output_files_text_data_json_NLN_keywords_1_	adventure
+output_files_dialogues_csv_1_column_0	id
+output_files_dialogues_csv_1_column_1	character
+output_files_dialogues_csv_1_column_2	dialogue_line
+output_files_dialogues_csv_2_column_0	1
+output_files_dialogues_csv_2_column_1	Hero
+output_files_dialogues_csv_2_column_2	This is line one.	Esta es la linea uno.
+output_files_dialogues_csv_3_column_0	2
+output_files_dialogues_csv_3_column_1	NPC
+output_files_dialogues_csv_3_column_2	"This is line two, with ""escaped"" quotes."
+output_files_dialogues_csv_4_column_0	3
+output_files_dialogues_csv_4_column_1	Hero
+output_files_dialogues_csv_4_column_2	A simple reply.
+output_files_game_logic_gd_4_Hello GDScript	Hello GDScript	Hola GDScript!
+output_files_game_logic_gd_5_This is an item_ %s	This is an item: %s
+"output_files_game_logic_gd_6_A tip with ""quotes"" in it_"	"A tip with ""quotes"" in it."	"A ""translated"" tip with new quotes."
+output_files_game_logic_gd_7_Debug message here_	Debug message here.

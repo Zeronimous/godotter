@@ -1,0 +1,234 @@
+{
+  "output_files_test_scene_tscn_3_text": {
+    "file_path": "output_files/test_scene.tscn",
+    "line_number": 3,
+    "key": "text",
+    "type": "tscn",
+    "original_text_md5": "5931ade1d06d875f6815007901027a2a",
+    "original_line_content": "text = \"Hello TSCN\""
+  },
+  "output_files_test_scene_tscn_4_tooltip_text": {
+    "file_path": "output_files/test_scene.tscn",
+    "line_number": 4,
+    "key": "tooltip_text",
+    "type": "tscn",
+    "original_text_md5": "96db9383b3cd06b9889f3531ce3247bd",
+    "original_line_content": "tooltip_text = \"A TSCN Tip\""
+  },
+  "output_files_test_scene_tscn_5_placeholder_text": {
+    "file_path": "output_files/test_scene.tscn",
+    "line_number": 5,
+    "key": "placeholder_text",
+    "type": "tscn",
+    "original_text_md5": "9624e531f47789f07eefbad612c252db",
+    "original_line_content": "placeholder_text = \"Enter here\""
+  },
+  "output_files_test_resource_tres_3_text": {
+    "file_path": "output_files/test_resource.tres",
+    "line_number": 3,
+    "key": "text",
+    "type": "tres",
+    "original_text_md5": "e9e3ba2cca1855ea37cf0d72a96ef10c",
+    "original_line_content": "text = \"Hello TRES\""
+  },
+  "output_files_test_resource_tres_4_title": {
+    "file_path": "output_files/test_resource.tres",
+    "line_number": 4,
+    "key": "title",
+    "type": "tres",
+    "original_text_md5": "a5bb662118723c4902eca9a5da9e310c",
+    "original_line_content": "title = \"TRES Title\""
+  },
+  "output_files_text_data_json_NLN_title": {
+    "file_path": "output_files/text_data.json",
+    "line_number": null,
+    "key": "title",
+    "type": "json",
+    "original_text_md5": "a4f04ef669377fbedc8299c8ef9a0d5f",
+    "original_line_content": "My JSON Game"
+  },
+  "output_files_text_data_json_NLN_description": {
+    "file_path": "output_files/text_data.json",
+    "line_number": null,
+    "key": "description",
+    "type": "json",
+    "original_text_md5": "c7c53a88d06f958d5021518679bbe0bb",
+    "original_line_content": "An adventure."
+  },
+  "output_files_text_data_json_NLN_chapters_0__name": {
+    "file_path": "output_files/text_data.json",
+    "line_number": null,
+    "key": "chapters[0].name",
+    "type": "json",
+    "original_text_md5": "8fe1f2e455ff223c81a6441733982773",
+    "original_line_content": "Chapter 1"
+  },
+  "output_files_text_data_json_NLN_chapters_0__text": {
+    "file_path": "output_files/text_data.json",
+    "line_number": null,
+    "key": "chapters[0].text",
+    "type": "json",
+    "original_text_md5": "fd8596788d58a43e59bd0148928e33e3",
+    "original_line_content": "Intro text"
+  },
+  "output_files_text_data_json_NLN_chapters_1__name": {
+    "file_path": "output_files/text_data.json",
+    "line_number": null,
+    "key": "chapters[1].name",
+    "type": "json",
+    "original_text_md5": "2497df6832e4b73a3d60be0ae51d0335",
+    "original_line_content": "Chapter 2"
+  },
+  "output_files_text_data_json_NLN_chapters_1__text": {
+    "file_path": "output_files/text_data.json",
+    "line_number": null,
+    "key": "chapters[1].text",
+    "type": "json",
+    "original_text_md5": "28145d7ac3fad2cb714f2b012db5fd4b",
+    "original_line_content": "More text with a \"quote\""
+  },
+  "output_files_text_data_json_NLN_keywords_0_": {
+    "file_path": "output_files/text_data.json",
+    "line_number": null,
+    "key": "keywords[0]",
+    "type": "json",
+    "original_text_md5": "7a1c07ff60f9c07ffe8da34ecbf4edc2",
+    "original_line_content": "fantasy"
+  },
+  "output_files_text_data_json_NLN_keywords_1_": {
+    "file_path": "output_files/text_data.json",
+    "line_number": null,
+    "key": "keywords[1]",
+    "type": "json",
+    "original_text_md5": "7cb4872d414053539d11f7c1270eafdc",
+    "original_line_content": "adventure"
+  },
+  "output_files_dialogues_csv_1_column_0": {
+    "file_path": "output_files/dialogues.csv",
+    "line_number": 1,
+    "key": "column_0",
+    "type": "csv",
+    "original_text_md5": "b80bb7740288fda1f201890375a60c8f",
+    "original_line_content": "id"
+  },
+  "output_files_dialogues_csv_1_column_1": {
+    "file_path": "output_files/dialogues.csv",
+    "line_number": 1,
+    "key": "column_1",
+    "type": "csv",
+    "original_text_md5": "a956161a69928cd130a889b88082fb6e",
+    "original_line_content": "character"
+  },
+  "output_files_dialogues_csv_1_column_2": {
+    "file_path": "output_files/dialogues.csv",
+    "line_number": 1,
+    "key": "column_2",
+    "type": "csv",
+    "original_text_md5": "1a129a3f3e0e195a559ba857ed41d7d6",
+    "original_line_content": "dialogue_line"
+  },
+  "output_files_dialogues_csv_2_column_0": {
+    "file_path": "output_files/dialogues.csv",
+    "line_number": 2,
+    "key": "column_0",
+    "type": "csv",
+    "original_text_md5": "c4ca4238a0b923820dcc509a6f75849b",
+    "original_line_content": "1"
+  },
+  "output_files_dialogues_csv_2_column_1": {
+    "file_path": "output_files/dialogues.csv",
+    "line_number": 2,
+    "key": "column_1",
+    "type": "csv",
+    "original_text_md5": "e0a67c8c63f8f7362917abef6ca24c6b",
+    "original_line_content": "Hero"
+  },
+  "output_files_dialogues_csv_2_column_2": {
+    "file_path": "output_files/dialogues.csv",
+    "line_number": 2,
+    "key": "column_2",
+    "type": "csv",
+    "original_text_md5": "1214c51f3af4ca7a061814ac93d89487",
+    "original_line_content": "This is line one."
+  },
+  "output_files_dialogues_csv_3_column_0": {
+    "file_path": "output_files/dialogues.csv",
+    "line_number": 3,
+    "key": "column_0",
+    "type": "csv",
+    "original_text_md5": "c81e728d9d4c2f636f067f89cc14862c",
+    "original_line_content": "2"
+  },
+  "output_files_dialogues_csv_3_column_1": {
+    "file_path": "output_files/dialogues.csv",
+    "line_number": 3,
+    "key": "column_1",
+    "type": "csv",
+    "original_text_md5": "2bda99597da06a11feafd8760b68aec6",
+    "original_line_content": "NPC"
+  },
+  "output_files_dialogues_csv_3_column_2": {
+    "file_path": "output_files/dialogues.csv",
+    "line_number": 3,
+    "key": "column_2",
+    "type": "csv",
+    "original_text_md5": "38143ed03d6d25a23c740882fa355de7",
+    "original_line_content": "This is line two, with \"escaped\" quotes."
+  },
+  "output_files_dialogues_csv_4_column_0": {
+    "file_path": "output_files/dialogues.csv",
+    "line_number": 4,
+    "key": "column_0",
+    "type": "csv",
+    "original_text_md5": "eccbc87e4b5ce2fe28308fd9f2a7baf3",
+    "original_line_content": "3"
+  },
+  "output_files_dialogues_csv_4_column_1": {
+    "file_path": "output_files/dialogues.csv",
+    "line_number": 4,
+    "key": "column_1",
+    "type": "csv",
+    "original_text_md5": "e0a67c8c63f8f7362917abef6ca24c6b",
+    "original_line_content": "Hero"
+  },
+  "output_files_dialogues_csv_4_column_2": {
+    "file_path": "output_files/dialogues.csv",
+    "line_number": 4,
+    "key": "column_2",
+    "type": "csv",
+    "original_text_md5": "db18992ae0ede8716c21ef03ef16c86c",
+    "original_line_content": "A simple reply."
+  },
+  "output_files_game_logic_gd_4_Hello GDScript": {
+    "file_path": "output_files/game_logic.gd",
+    "line_number": 4,
+    "key": "Hello GDScript",
+    "type": "gdscript",
+    "original_text_md5": "c7b5af5db95c92edf85946e7e085d8ba",
+    "original_line_content": "    var greeting = tr(\"Hello GDScript\")"
+  },
+  "output_files_game_logic_gd_5_This is an item_ %s": {
+    "file_path": "output_files/game_logic.gd",
+    "line_number": 5,
+    "key": "This is an item: %s",
+    "type": "gdscript",
+    "original_text_md5": "d0405cfd82da7202c08a6c1c6542b87c",
+    "original_line_content": "    var item_desc = tr(\"This is an item: %s\" % \"Sword\")"
+  },
+  "output_files_game_logic_gd_6_A tip with \"quotes\" in it_": {
+    "file_path": "output_files/game_logic.gd",
+    "line_number": 6,
+    "key": "A tip with \"quotes\" in it.",
+    "type": "gdscript",
+    "original_text_md5": "65a939b57da1f3bfdeb1b6829a6aa69b",
+    "original_line_content": "    var quoted_tip = tr(\"A tip with \\\"quotes\\\" in it.\")"
+  },
+  "output_files_game_logic_gd_7_Debug message here_": {
+    "file_path": "output_files/game_logic.gd",
+    "line_number": 7,
+    "key": "Debug message here.",
+    "type": "gdscript",
+    "original_text_md5": "e18db4c45d1b3e3318251418ae6249c3",
+    "original_line_content": "    print(tr(\"Debug message here.\"))"
+  }
+}

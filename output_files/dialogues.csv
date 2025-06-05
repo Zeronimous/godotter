@@ -1,0 +1,4 @@
+id,character,dialogue_line
+1,Hero,Esta es la linea uno.
+2,NPC,"This is line two, with ""escaped"" quotes."
+3,Hero,A simple reply.
