@@ -350,7 +350,4 @@ if __name__ == "__main__":
         #     print(f"  {f_path}")
     else:
         print("\nExtraction failed or no files were extracted.")
-
-```
-
-**2. `text_extractor.py`**
+# Removed extraneous Markdown-like text from the end of the file.
