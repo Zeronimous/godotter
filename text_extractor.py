@@ -239,7 +239,15 @@ if __name__ == '__main__':
     # JSON Test
     json_path = "temp_extractor_test_files/test.json"
     with open(json_path, "w", encoding="utf-8") as f:
-        json.dump({"greeting": "Hello JSON", "details": {"path": "a.b.c", "value": "JSON data with a \\"quote\\""}, "items": ["item1", "item2"]}, f)
+        data_to_dump = {
+            "greeting": "Hello JSON",
+            "details": {
+                "path": "a.b.c",
+                "value": "JSON data with a \\"quote\\"" # This Python string is 'JSON data with a "quote"'
+            },
+            "items": ["item1", "item2"]
+        }
+        json.dump(data_to_dump, f, ensure_ascii=False, indent=2) # Added ensure_ascii and indent for good practice
     print(f"\nJSON Test ({json_path}):")
     for item in extract_text_from_json(json_path): print(item)
 
